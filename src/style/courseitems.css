@@ -1,0 +1,17 @@
+.course_card{
+    background-color: white;
+    width: 60vw;
+    font-size: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 3px 3px 1px rgb(68, 64, 64);
+    gap: 10px;
+}
+.open{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,14 @@
+.course-container{
+    display: flex;
+    gap: 20px;
+}
+.course{
+    margin-top: 10px;
+    width: 80vw;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 20px;
+}
+
